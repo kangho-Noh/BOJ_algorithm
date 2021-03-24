@@ -2,3 +2,4 @@
 BOJ_algorithm
 Debug
 *.sln
+**/Debug
