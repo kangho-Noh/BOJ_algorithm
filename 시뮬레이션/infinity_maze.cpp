@@ -66,10 +66,6 @@ int main() {
 				else map[i][j] = c;
 			}
 		}
-		if (n == 1 && m == 1) {
-			cout << r.y << ' ' << r.x << ' ' << r.d << '\n';
-			continue;
-		}
 		history.push_back(r);
 		while (check_turn(r)) {}
 		int div = 0;
