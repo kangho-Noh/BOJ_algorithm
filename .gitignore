@@ -3,3 +3,10 @@ BOJ_algorithm
 Debug
 *.sln
 **/Debug
+.vcxproj
+.filters
+.user
+CMakeLists.txt
+cmake-build-debug
+.idea
+.txt
