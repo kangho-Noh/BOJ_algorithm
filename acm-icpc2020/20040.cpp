@@ -1,3 +1,4 @@
+// 분리 집합.
 #include <iostream>
 using namespace std;
 
