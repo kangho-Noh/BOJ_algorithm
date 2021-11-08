@@ -4,4 +4,4 @@ project(BOJ_algorithm)
 set(CMAKE_CXX_STANDARD 17)
 #set(CMAKE_CXX_FLAGS "-fexec-charset=CP949")
 
-add_executable(BOJ_algorithm upsolving/23242.cpp)
+add_executable(BOJ_algorithm codetest/practice.cpp)
